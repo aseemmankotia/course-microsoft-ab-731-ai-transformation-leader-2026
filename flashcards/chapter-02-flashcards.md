@@ -1,0 +1,16 @@
+## Chapter 2: Identifying and Prioritizing High-Value Use Cases — Flashcards
+
+| # | Front (Question) | Back (Answer) |
+|---|-----------------|---------------|
+| 1 | What are the two axes of the generative AI use-case prioritization matrix? | Business value (impact/ROI) on one axis, feasibility/effort (data readiness, risk, sponsorship, complexity) on the other. Exam tip: a use case is never prioritized on value alone. |
+| 2 | Quadrant: High value + High feasibility | Flagship/priority use case — fund and pilot immediately with strong support. Exam tip: this is the 'obvious yes' quadrant. |
+| 3 | Quadrant: Low value + High feasibility | Quick win — fast, low-risk, batch and greenlight with minimal governance overhead. Exam tip: quick wins build momentum, not major ROI. |
+| 4 | Quadrant: High value + Low feasibility | Strategic bet or research track — needs investment to improve feasibility (better data, risk mitigation, sponsorship) before or alongside piloting. Exam tip: don't discard, de-risk first. |
+| 5 | Quadrant: Low value + Low feasibility | Deprioritize/reject — remove from active roadmap. Exam tip: this is the only quadrant where 'do nothing' is the right answer. |
+| 6 | Quick win vs Strategic bet — key trade-off | Quick win = fast, low-risk, modest value, existing data/process. Strategic bet = high investment, longer timeline, higher risk, larger/transformational value. Exam tip: a balanced portfolio needs both. |
+| 7 | What is 'pilot paralysis'? | Running more concurrent pilots than the organization has capacity to evaluate and decide on, resulting in stalled initiatives with no go/no-go outcomes. Exam tip: caused by volume exceeding governance/evaluation capacity, not by a technical failure. |
+| 8 | How to avoid pilot paralysis | Cap concurrent pilots to what the evaluation team can realistically staff and reach a decision on; sequence or stagger pilots rather than launching all at once. Exam tip: fewer, well-resourced pilots beat many under-resourced ones. |
+| 9 | Data readiness as a feasibility input | Structure, accessibility, quality, and governance of the data required for the use case. Poor readiness lowers the feasibility score even if business value is high. Exam tip: data readiness issues increase effort/risk, they don't change the value score. |
+| 10 | Stakeholder sponsorship as a prioritization factor | Active, engaged executive/business ownership reduces adoption and execution risk; lack of sponsorship is a feasibility risk even for high-value use cases. Exam tip: sponsorship is often the tiebreaker between similarly-scored use cases. |
+| 11 | Portfolio balancing across functions — goal | Spread a manageable set of pilots across multiple business functions and mix quick wins with strategic bets, rather than concentrating all pilots in one department or all-in on one big bet. Exam tip: diversification reduces concentration risk. |
+| 12 | Down-selection criteria: long list → pilot shortlist | Score each candidate on business value + feasibility (data readiness, risk, sponsorship, effort), then apply a portfolio lens for functional diversity to select ~4-6 pilots. Exam tip: never down-select on a single criterion like novelty or submission order. |

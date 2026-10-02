@@ -1,0 +1,16 @@
+## Chapter 5: Microsoft 365 Copilot and Role/Department Experiences — Flashcards
+
+| # | Front (Question) | Back (Answer) |
+|---|-----------------|---------------|
+| 1 | What is the core grounding source for base Microsoft 365 Copilot responses? | The signed-in user's own Microsoft Graph content (emails, chats, meetings, files) respecting existing permissions. Exam tip: grounding scope is limited to what the user is already authorized to access. |
+| 2 | Which role-based Copilot extends grounding to CRM opportunity/customer data in Outlook and Teams? | Microsoft 365 Copilot for Sales. Exam tip: connects to Dynamics 365 Sales or Salesforce data. |
+| 3 | Which role-based Copilot targets contact center agents with case summarization and history-grounded suggested replies? | Microsoft 365 Copilot for Service. Exam tip: grounds in service/case systems like Dynamics 365 Customer Service. |
+| 4 | Which role-based Copilot helps finance teams with reconciliation and variance analysis in Excel? | Microsoft 365 Copilot for Finance. Exam tip: grounds Excel workflows in ERP data (e.g., Business Central, SAP). |
+| 5 | What must a user have BEFORE they can be assigned the Microsoft 365 Copilot add-on license? | An eligible base Microsoft 365 subscription (e.g., E3, E5, Business Standard, Business Premium). Exam tip: Copilot is licensed as an add-on, not standalone. |
+| 6 | Base Microsoft 365 Copilot vs Copilot Studio — when to choose which? | Base Copilot: assist within Word/Excel/PowerPoint/Outlook/Teams using the user's own Graph content. Copilot Studio: build fully custom agents with custom data sources and business logic. Exam tip: highly custom workflows = Copilot Studio. |
+| 7 | What controls which documents/emails Copilot can surface for a given user? | The user's existing Microsoft 365 permissions (SharePoint/OneDrive sharing, mailbox access). Exam tip: Copilot never bypasses existing access controls. |
+| 8 | Copilot in Excel vs Copilot for Finance — key difference? | Copilot in Excel (base) analyzes data already in the open worksheet. Copilot for Finance adds ERP-grounded reconciliation and variance workflows. Exam tip: 'reconciliation against ERP actuals' signals Copilot for Finance. |
+| 9 | Copilot for Sales/Service/Finance — common prerequisite? | All three role-based experiences are add-ons layered on top of a base Microsoft 365 Copilot license plus connection to the relevant line-of-business system (CRM/service/ERP). Exam tip: role-based ≠ standalone product. |
+| 10 | Scenario clue: 'summarize this meeting and email a recap to attendees' — best tool? | Base Microsoft 365 Copilot (Teams + Outlook), grounded in Graph meeting/chat content. No role-based add-on needed. |
+| 11 | Scenario clue: 'multi-system conditional workflow with branching logic across 3 unrelated LOB systems' — best tool? | Copilot Studio (custom agent) or Power Automate, not out-of-the-box Microsoft 365 Copilot. Exam tip: out-of-the-box Copilot assists within productivity apps, it does not orchestrate custom cross-system workflows. |
+| 12 | Does Microsoft 365 Copilot require on-premises infrastructure (e.g., on-prem Exchange) to function? | No — it is a cloud service grounded via Microsoft Graph in Microsoft 365 cloud data. Exam trap: answers claiming an on-prem requirement are always wrong. |

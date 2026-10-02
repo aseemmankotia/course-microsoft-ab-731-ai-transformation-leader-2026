@@ -1,0 +1,16 @@
+## Chapter 4: Responsible AI Governance, Risk, and Regulatory Awareness at the Organizational Level — Flashcards
+
+| # | Front (Question) | Back (Answer) |
+|---|-----------------|---------------|
+| 1 | Name the 6 Microsoft Responsible AI pillars. | Fairness, Reliability & Safety, Privacy & Security, Inclusiveness, Transparency, Accountability. Exam tip: each pillar maps to a governance concern, not just a technical feature. |
+| 2 | EU AI Act: which risk tier bans AI systems outright, no exceptions? | Unacceptable risk — e.g., social scoring, manipulative subliminal techniques, exploiting vulnerabilities of specific groups. Exam tip: 'banned regardless of safeguards' = unacceptable risk. |
+| 3 | EU AI Act: which risk tier covers hiring/employment screening AI? | High risk — requires human oversight, documentation, and risk management, but is not banned. Exam tip: employment, credit scoring, law enforcement, education = high risk category. |
+| 4 | EU AI Act: what obligation applies to 'limited risk' systems like chatbots? | Transparency obligation — must disclose to users that they are interacting with AI. Exam tip: limited risk ≠ no obligation, it's disclosure-only. |
+| 5 | Policy guardrail vs technical control — key difference? | Policy guardrail = organizational rule/process (e.g., mandatory human review before publishing AI content). Technical control = system-level configuration (e.g., content filter thresholds, rate limits). Exam tip: governance needs BOTH, not either/or. |
+| 6 | Which pillar addresses an organization's ability to explain AI decisions to regulators/customers? | Transparency. Exam tip: transparency = explainability + disclosure, distinct from fairness (bias) and accountability (ownership). |
+| 7 | Which pillar is about assigning clear ownership for AI system outcomes/decisions? | Accountability. Exam tip: accountability = 'who owns this decision/output', not just technical logging. |
+| 8 | What structure should leadership establish for AI oversight instead of relying solely on IT security? | A cross-functional AI governance board/committee (legal, compliance, business, technical stakeholders) to set policy, assess risk, and assign accountability. Exam tip: technical controls alone = governance gap. |
+| 9 | What are the two main limitations leadership must set realistic expectations about with generative AI? | Hallucination (plausible but false output) and bias (reflecting training data skew). Exam tip: leadership communicates these openly; hiding them increases reputational/legal risk. |
+| 10 | Data privacy/security posture — why is it an executive concern, not just IT's? | Because breaches or misuse carry regulatory, legal, and reputational risk that affects the whole organization's strategy and trust. Exam tip: exam frames this as leadership risk topic, not a config setting. |
+| 11 | What should be disclosed to employees before deploying AI monitoring tools? | Purpose of monitoring, what data is used, how outputs affect decisions, and who is accountable for those decisions. Exam tip: silent/delayed disclosure is always the wrong answer. |
+| 12 | Regulatory awareness (EU AI Act) — is this framed as an engineering or leadership concern on the exam? | Leadership/strategic concern. Exam tip: exam distractors often push a 'let engineering handle compliance' answer — this is always wrong. |
